@@ -201,7 +201,7 @@ contact:
   email: Email*
   message-validation: Please enter a message.
 footer:
-  legal: Privacy Policy
+  legal: "Privacy Policy "
   credits: Credits
   social:
     - url: mailto:hello@lyonsBehavioralservices.com
